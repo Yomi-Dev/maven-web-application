@@ -11,29 +11,28 @@
 <body>
 <h1 align="center">Welcome to Dirac Delta Technologies.</h1>
 <h2 align="center"> We are supporting the Ebay Black Friday Project.
-	Landmark Technologies is a software development company. 
-	Class230 will run from October 2, 2022.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	Yomi Technologies is a software development company. 
+	Greatness in awesome, stay jiggy</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mylandmarklogo.jpg" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Yomi Technology, 
+		Lagos, Nigeria
+		+234 7063155709,
+		yomiimlalerts@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:yomiimlalerts@gmail.com">Mail to Yomi Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://mylandmark.tech/">Landmark Technologies</a> </small></p>
+<p align=center>YomiTechnologies - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://google.com/">Yomi Technologies</a> </small></p>
 
 </body>
 </html>
